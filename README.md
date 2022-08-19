@@ -11,7 +11,7 @@ For the below two videos,the red ball center is detected in each frame and a Lea
 ### a) DataPoints Plot
 ![video1_data](https://user-images.githubusercontent.com/48856345/185502529-7dded1f9-e202-421a-8d58-ca6b54794df5.png)
 
-### b) Least Square Curve Fitting PLot
+### b) Least Square Curve Fitting Plot
 ![video1_curve](https://user-images.githubusercontent.com/48856345/185502534-e7100b66-0b6f-4469-9dad-d21b6f52255b.png)
 
 
@@ -25,5 +25,5 @@ For the below two videos,the red ball center is detected in each frame and a Lea
 ![video2_data](https://user-images.githubusercontent.com/48856345/185502975-c54609a1-983a-4e92-91b6-0427df8ab865.png)
 
 
-### b) Least Square Curve Fitting PLot
+### b) Least Square Curve Fitting Plot
 ![video2_curve](https://user-images.githubusercontent.com/48856345/185503009-03e4465a-8d0c-4a2e-9e1e-5ac888bf6483.png)
