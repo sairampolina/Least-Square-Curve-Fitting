@@ -108,18 +108,17 @@ def plot_datapoints(st):
 def plot_LS_curve(points):
       
     """
-    Return the co-ordinates of center of the red bolb in each frame
     
-    Plots the datapoints i.e the center of the red bolb
+    Plots the Least Square Curve
 
    Parameters
    ----------
-   st : string
-      name of video file as a string  
+   points : list
+      list of x,y co-ordinates  
 
    Returns
    -------
-   Return the co-ordinates of center of the red bolb in each frame
+   None
 
    """
 
